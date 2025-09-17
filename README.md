@@ -1,5 +1,4 @@
 # baitapvenha11092025
-# Cài đặt thư viện (bỏ comment nếu chưa cài)
 # pip install opencv-python scikit-learn tensorflow matplotlib numpy pillow tkinter
 
 import os
